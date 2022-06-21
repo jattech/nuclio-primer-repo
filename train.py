@@ -1,0 +1,1 @@
+print('codigo chachi que entrena el modelo')
